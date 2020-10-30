@@ -1,0 +1,30 @@
+body {
+    font-family: 'Roboto';
+}
+.title{
+    font-size: 20px;
+    text-align: center;
+}
+.mainbarlinks{
+    display: block;
+    color:#333;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.active {
+    background-color: #999;
+    color: white;
+}
+.imgindex {
+    width: 250px;
+    height: 400px;
+    object-fit: cover;
+    padding: 20px;
+    margin-top:10px;
+}
+.mainbar{
+    margin-top:10px;
+    margin-bottom:40px;
+    overflow: hidden;
+}
